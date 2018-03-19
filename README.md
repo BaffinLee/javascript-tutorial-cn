@@ -1,4 +1,6 @@
 
+# [中文](https://github.com/BaffinLee/javascript-tutorial-cn/blob/master/README.cn.md)
+
 # The JavaScript Tutorial
 
 This repository hosts the content of the Modern JavaScript Tutorial, published at [https://javascript.info](https://javascript.info).
